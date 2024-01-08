@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JackieBoutwell
 - 👀 I’m interested in ... Plants and Animals!
-- 🌱 I’m currently learning ... Code
-- 💞️ I’m looking to collaborate on ... Code
-- 📫 How to reach me ... :)
+- 🌱 I’m currently learning ... Web development
+- 💞️ I’m looking to collaborate on ... Any coding projects!
+- 📫 How to reach me ... boutwelljackie983@gmail.com
 
 <!---
 Billnyethewifiguy/Billnyethewifiguy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
